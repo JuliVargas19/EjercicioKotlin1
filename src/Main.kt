@@ -3,6 +3,6 @@
 fun main() {
    println("Hola Mundo")
     println("Juliana")
-    println("Leergit")
+    println("Leer")
 
 }
