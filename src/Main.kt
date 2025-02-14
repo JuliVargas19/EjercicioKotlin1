@@ -2,13 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
    println("Hola Mundo")
-    println("Primer Ejercicio Kotlin")
-    println("Primer Ejercicio Kotlin")
-    println("Primer Ejercicio Kotlin")
-    println("Primer Ejercicio Kotlin")
-    println("Primer Ejercicio Kotlin")
-    println("Primer Ejercicio Kotlin")
-    println("Primer Ejercicio Kotlin")
-    println("Primer Ejercicio Kotlin")
+    println("Juliana")
+    println("Leergit")
 
 }
